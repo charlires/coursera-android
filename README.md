@@ -19,3 +19,8 @@ Semana Cuatro
 -------------
 - [UILab](http://www.youtube.com/watch?v=S1vE2858uXw)
 - Esta application recibio una modificacion justo [aqui](https://github.com/charlires/coursera-android/blob/master/week4-UILab/UILabs/src/course/labs/todomanager/ToDoListAdapter.java#L116)
+
+Semana Cinco
+-------------
+- [NotificationsLab](http://www.youtube.com/watch?v=Y_MXuCfT-ZM)
+
