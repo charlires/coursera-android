@@ -53,12 +53,10 @@ Week Five
 -------------
 - [NotificationsLab](http://www.youtube.com/watch?v=Y_MXuCfT-ZM)
 
-<<<<<<< HEAD
 Week Six
 --------
 - [GraphicsLab](http://www.youtube.com/watch?v=ySoTKEcouD4)
-=======
+
 Semana Seis
 -----------
 - [GraphicsLab](http://www.youtube.com/watch?v=ySoTKEcouD4)
->>>>>>> FETCH_HEAD
