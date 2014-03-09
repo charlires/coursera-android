@@ -156,16 +156,29 @@ public class BubbleActivity extends Activity {
 				// ViewGroup.getChildCount() method
 
                 boolean newBubble = true;
-                int size = mFrame.getChildCount();
-                for (int i = 0; i > size; i++) {
+                int groupViewSize = mFrame.getChildCount();
+//                for (int i = 0; i > size; i++) {
+//                    BubbleView bubbleView = (BubbleView) mFrame.getChildAt(i);
+//                    if (bubbleView != null) {
+//                        if (bubbleView.intersects(event.getX(), event.getY())) {
+//                            bubbleView.stop(true);
+//                            newBubble = false;
+//                            break;
+//                        }
+//                    }
+//                }
+
+                // Cambio sugerido por (Juan A. Sánchez) https://plus.google.com/u/0/115930933052031811988
+                int i = 0;
+                while (newBubble && i < groupViewSize) {
                     BubbleView bubbleView = (BubbleView) mFrame.getChildAt(i);
-                    if (bubbleView != null) {
+                    if (bubbleView != null){
                         if (bubbleView.intersects(event.getX(), event.getY())) {
                             bubbleView.stop(true);
                             newBubble = false;
-                            break;
                         }
                     }
+                    i++;
                 }
 
                 if (newBubble) {
