@@ -56,7 +56,3 @@ Week Five
 Week Six
 --------
 - [GraphicsLab](http://www.youtube.com/watch?v=ySoTKEcouD4)
-
-Semana Seis
------------
-- [GraphicsLab](http://www.youtube.com/watch?v=ySoTKEcouD4)
