@@ -133,7 +133,7 @@ public class BubbleActivity extends Activity {
 				// ViewGroup.getChildCount() method
 
                 int size = mFrame.getChildCount();
-                for (int i = 0; i > size; i++) {
+                for (int i = 0; i < size; i++) {
                     BubbleView bubbleView = (BubbleView) mFrame.getChildAt(i);
                     if (bubbleView != null) {
                         bubbleView.deflect(velocityX, velocityY);
