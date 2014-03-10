@@ -27,3 +27,4 @@ Semana Cinco
 Semana Seis
 -----------
 - [GraphicsLab](http://www.youtube.com/watch?v=ySoTKEcouD4)
+- Cambio sugerido por [Juan A.Sánchez](https://plus.google.com/u/0/115930933052031811988) - [En el metodo de onSingleTapConfirmed] (https://github.com/charlires/coursera-android/blob/f7b92d91513f07472515126173ae2f68705d6fd2/week6-Graphics/GraphicsLab/src/course/labs/GraphicsLab/BubbleActivity.java#L171)
