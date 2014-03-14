@@ -83,7 +83,6 @@ public class BubbleActivity extends Activity {
 				.getStreamVolume(AudioManager.STREAM_MUSIC)
 				/ mAudioManager.getStreamMaxVolume(AudioManager.STREAM_MUSIC);
 
-//        Toast.makeText(this, mStreamVolume + "", Toast.LENGTH_LONG).show();
 
 		// TODO - make a new SoundPool, allowing up to 10 streams 
 		mSoundPool = new SoundPool(10, AudioManager.STREAM_MUSIC, 0);
@@ -322,7 +321,8 @@ public class BubbleActivity extends Activity {
 					// Each time this method is run the BubbleView should
 					// move one step. If the BubbleView exits the display, 
 					// stop the BubbleView's Worker Thread. 
-					// Otherwise, request that the BubbleView be redrawn. 
+					// Otherwise, request that the BubbleView be redrawn.
+					
 					if (moveWhileOnScreen()) {
                         BubbleView.this.postInvalidate();
                     } else {
