@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LocationLab.iml" filepath="$PROJECT_DIR$/.idea/LocationLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LocationLabTest/LocationLabTest.iml" filepath="$PROJECT_DIR$/../LocationLabTest/LocationLabTest.iml" />
+    </modules>
+  </component>
+</project>
+
