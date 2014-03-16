@@ -91,24 +91,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BubbleActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BubbleActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/course/labs/GraphicsLab/BubbleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="164" column="48" selection-start="5004" selection-end="5004" vertical-scroll-proportion="1.2487725" vertical-offset="2189" max-vertical-offset="8892">
+            <state line="24" column="40" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8892">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2581#2795#0" expanded="true" />
-                <element signature="e#9180#9707#0" expanded="true" />
-                <element signature="e#10323#10797#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleActivityFling.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="BubbleActivityFling.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../GraphicsLabTest/src/course/labs/TouchLab/test/BubbleActivityFling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="8" selection-start="942" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="954">
+            <state line="28" column="0" selection-start="735" selection-end="735" vertical-scroll-proportion="0.726979" vertical-offset="0" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BubbleActivityFloatOffScreen.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../GraphicsLabTest/src/course/labs/TouchLab/test/BubbleActivityFloatOffScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="0" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="774">
               <folding />
             </state>
           </provider>
@@ -149,6 +155,28 @@
     <option name="width" value="1940" />
     <option name="height" value="1098" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -177,7 +205,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -186,8 +213,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphicsLab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphicsLabTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphicsLab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphicsLabTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphicsLab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphicsLab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -198,37 +264,34 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/mavenProjects/pcm-api" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="reference.settings.project.maven.importing" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Android Tests.BubbleActivityFling">
+  <component name="RunManager" selected="Android Tests.BubbleActivityPop">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
       <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -237,6 +300,22 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -267,34 +346,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -314,6 +365,109 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -457,6 +611,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6a4114b0-3f1b-4842-95b5-cf55cd6cfad4" name="Default" comment="" />
@@ -468,12 +639,14 @@
       <workItem from="1394387893914" duration="2369000" />
       <workItem from="1394424933627" duration="1820000" />
       <workItem from="1394426844240" duration="69000" />
-      <workItem from="1394427044096" duration="1510000" />
+      <workItem from="1394427044096" duration="1607000" />
+      <workItem from="1394431410912" duration="132000" />
+      <workItem from="1394431579157" duration="852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15597000" />
+    <option name="totallyTimeSpent" value="16678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="-8" width="1940" height="1098" extended-state="6" />
@@ -489,19 +662,19 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20106383" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838982" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31991526" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.327818" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19544984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19316968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.327818" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -533,12 +706,61 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/course/labs/GraphicsLab/BubbleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="163" column="52" selection-start="4955" selection-end="4955" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="8892">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GraphicsLabTest/src/course/labs/TouchLab/test/BubbleActivityFling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="8" selection-start="942" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="249" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="234">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/course/labs/GraphicsLab/BubbleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="52" selection-start="3640" selection-end="3640" vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="7410">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GraphicsLabTest/src/course/labs/TouchLab/test/BubbleActivityFling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="8" selection-start="942" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="249" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/course/labs/GraphicsLab/BubbleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="180" column="26" selection-start="5690" selection-end="5690" vertical-scroll-proportion="0.0" vertical-offset="2783" max-vertical-offset="8892">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2581#2795#0" expanded="true" />
-            <element signature="e#9180#9707#0" expanded="true" />
-            <element signature="e#10323#10797#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -552,16 +774,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../week6/GraphicsLab/src/course/labs/GraphicsLab/BubbleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="24" selection-start="6546" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="3330" max-vertical-offset="8532">
-          <folding />
-        </state>
+        <state line="185" column="24" selection-start="6546" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="3330" max-vertical-offset="8532" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Apps/android-studio/sdk/sources/android-18/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364">
-          <folding />
-        </state>
+        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
@@ -579,9 +797,6 @@
         <state line="37" column="0" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="8892">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2581#2795#0" expanded="true" />
-            <element signature="e#9180#9707#0" expanded="true" />
-            <element signature="e#10323#10797#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -595,16 +810,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../week6/GraphicsLab/src/course/labs/GraphicsLab/BubbleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="24" selection-start="6546" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="3330" max-vertical-offset="8532">
-          <folding />
-        </state>
+        <state line="185" column="24" selection-start="6546" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="3330" max-vertical-offset="8532" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Apps/android-studio/sdk/sources/android-18/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364">
-          <folding />
-        </state>
+        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
@@ -622,25 +833,18 @@
         <state line="173" column="43" selection-start="5349" selection-end="5349" vertical-scroll-proportion="0.0" vertical-offset="3114" max-vertical-offset="8586">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2581#2795#0" expanded="true" />
-            <element signature="e#9180#9707#0" expanded="true" />
-            <element signature="e#10323#10797#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../week6/GraphicsLab/src/course/labs/GraphicsLab/BubbleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="24" selection-start="6546" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="3330" max-vertical-offset="8424">
-          <folding />
-        </state>
+        <state line="185" column="24" selection-start="6546" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="3330" max-vertical-offset="8424" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Apps/android-studio/sdk/sources/android-18/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364">
-          <folding />
-        </state>
+        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
@@ -658,25 +862,18 @@
         <state line="51" column="25" selection-start="1437" selection-end="1437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8658">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2581#2795#0" expanded="true" />
-            <element signature="e#9180#9707#0" expanded="true" />
-            <element signature="e#10323#10797#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../week6/GraphicsLab/src/course/labs/GraphicsLab/BubbleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="17" selection-start="6900" selection-end="6900" vertical-scroll-proportion="0.0" vertical-offset="3528" max-vertical-offset="7938">
-          <folding />
-        </state>
+        <state line="196" column="17" selection-start="6900" selection-end="6900" vertical-scroll-proportion="0.0" vertical-offset="3528" max-vertical-offset="7938" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Apps/android-studio/sdk/sources/android-18/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364">
-          <folding />
-        </state>
+        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
@@ -694,18 +891,13 @@
         <state line="15" column="24" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="8658">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2581#2795#0" expanded="true" />
-            <element signature="e#9180#9707#0" expanded="true" />
-            <element signature="e#10323#10797#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Apps/android-studio/sdk/sources/android-18/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364">
-          <folding />
-        </state>
+        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
@@ -723,18 +915,13 @@
         <state line="15" column="24" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="8658">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2581#2795#0" expanded="true" />
-            <element signature="e#9180#9707#0" expanded="true" />
-            <element signature="e#10323#10797#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Apps/android-studio/sdk/sources/android-18/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364">
-          <folding />
-        </state>
+        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="195156" max-vertical-offset="338364" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
@@ -764,37 +951,125 @@
     </entry>
     <entry file="file://$USER_HOME$/Apps/android-studio/sdk/sources/android-18/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="193269" max-vertical-offset="336690">
-          <folding />
-        </state>
+        <state line="10842" column="6" selection-start="422265" selection-end="422265" vertical-scroll-proportion="0.0" vertical-offset="193269" max-vertical-offset="336690" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../week6/GraphicsLab/src/course/labs/GraphicsLab/BubbleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="24" selection-start="6546" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="2463" max-vertical-offset="8118">
+        <state line="185" column="24" selection-start="6546" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="2463" max-vertical-offset="8118" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/course/labs/GraphicsLab/BubbleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="40" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8892">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GraphicsLabTest/src/course/labs/TouchLab/test/BubbleActivityFloatOffScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="774">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../GraphicsLabTest/src/course/labs/TouchLab/test/BubbleActivityFling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="8" selection-start="942" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="317" max-vertical-offset="900">
+        <state line="28" column="0" selection-start="735" selection-end="735" vertical-scroll-proportion="0.726979" vertical-offset="0" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/course/labs/GraphicsLab/BubbleActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="48" selection-start="5004" selection-end="5004" vertical-scroll-proportion="1.2487725" vertical-offset="2189" max-vertical-offset="8892">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2581#2795#0" expanded="true" />
-            <element signature="e#9180#9707#0" expanded="true" />
-            <element signature="e#10323#10797#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 18 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GraphicsLabTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>robotium-solo-5.0.2-SNAPSHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
