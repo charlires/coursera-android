@@ -1,6 +1,6 @@
 Hello
 ====
-Here is the source codes of the Coursera Android Labs. The videos below from Carlos Andonaegui.
+Here is the source codes of the Coursera Android Labs. The videos below are from Carlos Andonaegui.
 
 Week Two
 --------
