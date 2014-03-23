@@ -1,6 +1,6 @@
 Hello
 ====
-Here is the source codes of the Labs in the videos below from Carlos Andonaegui.
+Here is the source codes of the Coursera Android Labs. The videos below from Carlos Andonaegui.
 
 Week Two
 --------
@@ -27,4 +27,8 @@ Week Six
 
 Week Seven
 --------
-- [LocationLab]()
+- [LocationLab](http://www.youtube.com/watch?v=2g_49rGxPLY)
+
+Week Eight
+--------
+- [ContentProviderLab](http://www.youtube.com/watch?v=k07HlJrmt5w)
